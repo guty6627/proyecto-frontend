@@ -1,0 +1,11 @@
+.row{
+    padding: 20px;
+}
+div{
+    background-color: aqua;
+}
+footer{
+    font-size: 16px;
+    color: gray;
+    text-align: end;
+}
